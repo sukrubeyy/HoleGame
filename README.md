@@ -1,3 +1,3 @@
-# HoleGame
+# Hole Mechanism
 
-This project made with Unity
+<a href="https://sukrubeyy.itch.io/hole-game-mechanism">Test this mechanism on web browser</a>
